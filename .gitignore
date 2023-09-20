@@ -9,3 +9,10 @@ baselines/
 temp*
 tmp_vis.png
 *.pt
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/other.xml
+.idea/SEAL_OGB.iml
+.idea/vcs.xml
+.idea/workspace.xml
